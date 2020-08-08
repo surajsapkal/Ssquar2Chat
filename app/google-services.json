@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613734312533",
+    "firebase_url": "https://ssquare2chat-test.firebaseio.com",
+    "project_id": "ssquare2chat-test",
+    "storage_bucket": "ssquare2chat-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613734312533:android:a08aac135febf51ac602dc",
+        "android_client_info": {
+          "package_name": "com.example.ssquar2chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613734312533-v0m2k2ct5iu65r5hk40mtnj6rfa3thf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssquar2chat",
+            "certificate_hash": "4920573d709be94c83c181d5d62f173de4248a51"
+          }
+        },
+        {
+          "client_id": "613734312533-utqo5oqhnobu9sbo1mpajli4nki4btkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAtFz9BrqdZzdOJeSovbo10p5r3V8FY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613734312533-utqo5oqhnobu9sbo1mpajli4nki4btkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
